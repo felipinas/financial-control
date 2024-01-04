@@ -12,8 +12,8 @@ A Node API to control your finances.
 # Business Rules
 
 - [x] The transaction can be of the credit type (will add to the value) or debit type (will subtract).
-- [ ] It should be possible to identify the user between requests.
-- [ ] The user can only view transactions that they have created.
+- [x] It should be possible to identify the user between requests.
+- [x] The user can only view transactions that they have created.
 
 # Stack
 
